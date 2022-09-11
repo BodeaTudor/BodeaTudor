@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BodeaTudor
-- 👀 I’m interested in Java Programming.
-- 🌱 I’m currently learning API development using SpringBoot.
-- 💞️ I’m looking to work on a real project.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently working as a Junior Software Developer.
 - 📫 How to reach me: bodea.tudor99@yahoo.com or 0756518607
 
 <!---
